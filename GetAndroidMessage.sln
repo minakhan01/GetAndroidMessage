@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{FA25F3F4-D710-0574-E1A8-6E26E2C4C2CC}") = "GetAndroidMessage", "Assembly-CSharp.csproj", "{05646D56-7A22-83D5-D444-01DCD6D99682}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05646D56-7A22-83D5-D444-01DCD6D99682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05646D56-7A22-83D5-D444-01DCD6D99682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05646D56-7A22-83D5-D444-01DCD6D99682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05646D56-7A22-83D5-D444-01DCD6D99682}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
